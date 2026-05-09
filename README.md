@@ -11,6 +11,12 @@ Bu proje, ana dili İngilizce olmayan öğrencilerin (ELL) yazdığı makaleleri
 - **Otomatik Temizleme:** Metindeki fazla boşluklar ve satır sonları modelin beklentisine göre otomatik normalize edilir.
 - **Hata Tespiti:** Yazım hatalarını metin içinde vurgulayarak öğrencinin kendi hatalarını fark etmesini sağlar (Yanlış yönlendirmeyi önlemek için otomatik öneri yapılmaz).
 
+## 🚀 Canlı Uygulama (Demo)
+Model dosyasını yerel olarak kurmak ve çalıştırmakla uğraşmadan, projenin canlı versiyonunu doğrudan tarayıcınız üzerinden test edebilirsiniz:
+
+👉 **[Hugging Face Spaces - Canlı Uygulama]
+(https://huggingface.co/spaces/Karadeniztk/Feedback-Prize-English-Language-Learning))**
+
 
 ## 🛠️ Kurulum ve Çalıştırma
 
