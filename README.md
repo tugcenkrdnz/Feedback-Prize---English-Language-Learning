@@ -1,6 +1,6 @@
 # 📝 English Language Learner Proficiency Grader
 
-Bu proje, ana dili İngilizce olmayan öğrencilerin (ELL) yazdığı makaleleri analiz eden ve 6 farklı kriterde puanlayan bir Doğal Dil İşleme (NLP) uygulamasıdır. MacBook Pro M4 işlemci mimarisiyle tam uyumlu ve yüksek performanslı çalışacak şekilde optimize edilmiştir.
+Bu proje, ana dili İngilizce olmayan öğrencilerin (ELL) yazdığı makaleleri analiz eden ve 6 farklı kriterde puanlayan bir Doğal Dil İşleme (NLP) uygulamasıdır.
 
 ## 🎯 Projenin Amacı
 Öğrencilerin yazdığı metinleri; **Cohesion, Syntax, Vocabulary, Phraseology, Grammar** ve **Conventions** başlıkları altında 1.0 ile 5.0 arasında puanlayarak anında geri bildirim sağlamak.
